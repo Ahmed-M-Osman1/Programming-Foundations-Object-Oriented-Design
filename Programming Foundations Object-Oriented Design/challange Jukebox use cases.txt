@@ -1,0 +1,12 @@
+1-user case:
+	A- title: Play songs.
+	   Primary actors: astronods.
+	   scenario: the astronod select a song in the jukebox and then the jukebox play it.
+	
+	B- title: order songs in line.
+	   primary actors: astronods.
+	   scenario: each astronod will add his favroite song so the jukebox will put them in a line.
+
+2- user stories: 
+	A- As an astronods, I would like to put my songs first.
+	B- As an astronods, I want to play song without pressing any buttum.

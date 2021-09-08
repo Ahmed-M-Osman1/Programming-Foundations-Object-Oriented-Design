@@ -1,0 +1,8 @@
+1-Functional requirements:
+	A- the system must have the ability to change songs.
+	B- the system must have the ability to identify which song is recommended by users.
+	C- the system must have to adjast the songs volume.
+2-Non-Functional requirements: 
+	A- the system should have easy and accessable interface.
+	B- the system should have the ability to add songs and remove songs.
+	C- the system should have the ability to know the artist of a song to sort them.
